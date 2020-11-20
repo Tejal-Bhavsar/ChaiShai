@@ -1,0 +1,14 @@
+.slogan{
+    height: 206px;
+    width: 100%;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    font-family: 'Acme', sans-serif;
+    font-size: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: goldenrod;
+    animation: bounce; /* referring directly to the animation's @keyframe declaration */
+   animation-duration: 2s;
+}

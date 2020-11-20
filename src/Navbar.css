@@ -1,0 +1,55 @@
+.brand{
+    width: 2rem;
+    margin-left: 3rem;
+}
+
+.navbar-brand {
+    font-family: 'Acme', sans-serif;
+}
+a {
+    color: black !important;
+}
+.nav-link {
+    
+    font-family: 'Acme', sans-serif;
+}
+ul {
+    margin-right: 9rem;
+}
+li {
+    margin-right: 1.6rem;
+}
+
+a:hover {
+    color: goldenrod !important;
+}
+
+/* .carousel-item1{
+    ; 
+    background-image: url("/src/asset/bag.jpeg");
+    background-attachment: fixed;
+}
+  */
+
+ .bag {
+     
+    background-image: url('/src/asset/bag2.jpeg');
+    background-attachment: fixed;
+    height: 690px;
+    width: 100%;
+}
+
+@media only screen and (max-width: 768px) {
+     .navbar-brand{
+        padding-left: 0px !important;
+     }
+
+     .bag {
+        background: url('/src/asset/bag2.jpeg') no-repeat  fixed;  
+        background-size: cover; 
+        background-position: center;
+     }
+     a:hover {
+        color: goldenrod !important;
+    }
+  }

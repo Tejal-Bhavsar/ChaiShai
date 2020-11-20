@@ -1,0 +1,28 @@
+h1 {
+    animation-duration: 2s;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Acme', sans-serif;
+}
+
+.content {
+    margin: 2rem;
+}
+
+.chai img {
+    width: 300px;
+}
+
+.description {
+    /* background: rgb(175,133,81);
+    background: linear-gradient(90deg, rgba(175,133,81,1) 0%, rgba(226,218,176,1) 100%, rgba(0,212,255,1) 100%); */
+    
+    width: 700px;
+    margin-left: 3rem;
+    padding: 1rem;
+    /* line-height: 1.5rem; */
+    word-spacing: 10px;
+    font: 1rem;
+    font-family: 'Acme', sans-serif;
+}
