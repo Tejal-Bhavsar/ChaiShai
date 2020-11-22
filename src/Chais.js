@@ -9,8 +9,7 @@ import cut4 from './asset/cut4.jpg'
 export default function Chais() {
     return (
         <div>
-
-            <div className="chais"> 
+            <div className="chais" > 
              <HeadShake>
              <h1 className="animate__fadeInDown">Chai is "Everything"</h1>
              </HeadShake>
@@ -18,8 +17,8 @@ export default function Chais() {
              <div className="content row">
                  <div className="chai col-6-sm col-6-md" >
                     <Fade left>
-                        <img src={cut3} />
-                        <img src={cut4} />
+                        <img src={cut3} alt="img1" />
+                        <img src={cut4} alt="img2" />
                     </Fade>
                  </div>
                     <Fade right>

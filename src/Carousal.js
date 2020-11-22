@@ -15,7 +15,7 @@ export default function Carousal() {
             </ol>
             <div className="carousel-inner">
               <div className="carousel-item active">
-                <img className="d-block w-100" src={bag4}/>
+                <img className="d-block w-100" src={bag4}alt="pic1"/>
               </div>
               <div className="carousel-item">
                 <img className="d-block w-100" src={bag2}/>
