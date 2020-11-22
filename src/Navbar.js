@@ -2,7 +2,7 @@ import React from 'react'
 import ReactDOM from "react-dom"
 import './Navbar.css'
 import Notfound from './Notfound'
-import Slogan from './Slogan'
+ 
 import { NavLink } from 'react-router-dom'
 
 import Gallary from './Gallary';
@@ -42,10 +42,7 @@ export default function Navbar() {
                 </div>
              
          </nav>
-         <div className="bag">
-           
-         </div>
-        <Slogan />
+         
 
         
          
