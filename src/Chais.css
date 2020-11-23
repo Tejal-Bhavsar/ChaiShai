@@ -26,3 +26,19 @@ h1 {
     font: 1rem;
     font-family: 'Acme', sans-serif;
 }
+
+@media only screen and (max-width: 768px) {
+    h1 {
+        display: flex;
+        justify-content: center;
+        text-align: center;
+    }
+    .chai .img1 {
+        display: none;
+    }
+    .description{
+        margin-top: 1rem;
+        margin-left: 0px;
+        padding: 5px;
+    }
+}

@@ -17,7 +17,7 @@ export default function Chais() {
              <div className="content row">
                  <div className="chai col-6-sm col-6-md" >
                     <Fade left>
-                        <img src={cut3} alt="img1" />
+                        <img className="img1" src={cut3} alt="img1" />
                         <img src={cut4} alt="img2" />
                     </Fade>
                  </div>
