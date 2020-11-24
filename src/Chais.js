@@ -1,5 +1,6 @@
 import React from 'react'
 import './Chais.css'
+import Chaitypes from './Chaitypes'
 import Fade from 'react-reveal/Fade';
 import HeadShake from 'react-reveal/HeadShake';
 
@@ -32,7 +33,8 @@ export default function Chais() {
                  
              </div>
             </div>
-
+        
+          <Chaitypes />
         </div>
     )
 }
