@@ -1,32 +1,33 @@
 {
   "files": {
-    "main.css": "/ChaiShai/static/css/main.bf0671e3.chunk.css",
-    "main.js": "/ChaiShai/static/js/main.d9c0f05b.chunk.js",
-    "main.js.map": "/ChaiShai/static/js/main.d9c0f05b.chunk.js.map",
-    "runtime-main.js": "/ChaiShai/static/js/runtime-main.952c15fa.js",
-    "runtime-main.js.map": "/ChaiShai/static/js/runtime-main.952c15fa.js.map",
+    "main.css": "/ChaiShai/static/css/main.518d659f.chunk.css",
+    "main.js": "/ChaiShai/static/js/main.32ca14a9.chunk.js",
+    "main.js.map": "/ChaiShai/static/js/main.32ca14a9.chunk.js.map",
+    "runtime-main.js": "/ChaiShai/static/js/runtime-main.c329cdad.js",
+    "runtime-main.js.map": "/ChaiShai/static/js/runtime-main.c329cdad.js.map",
     "static/css/2.1a02f21c.chunk.css": "/ChaiShai/static/css/2.1a02f21c.chunk.css",
-    "static/js/2.3fbbe7f4.chunk.js": "/ChaiShai/static/js/2.3fbbe7f4.chunk.js",
-    "static/js/2.3fbbe7f4.chunk.js.map": "/ChaiShai/static/js/2.3fbbe7f4.chunk.js.map",
-    "static/js/3.a4a3f225.chunk.js": "/ChaiShai/static/js/3.a4a3f225.chunk.js",
-    "static/js/3.a4a3f225.chunk.js.map": "/ChaiShai/static/js/3.a4a3f225.chunk.js.map",
+    "static/js/2.4f622e58.chunk.js": "/ChaiShai/static/js/2.4f622e58.chunk.js",
+    "static/js/2.4f622e58.chunk.js.map": "/ChaiShai/static/js/2.4f622e58.chunk.js.map",
+    "static/js/3.6b8932a3.chunk.js": "/ChaiShai/static/js/3.6b8932a3.chunk.js",
+    "static/js/3.6b8932a3.chunk.js.map": "/ChaiShai/static/js/3.6b8932a3.chunk.js.map",
     "index.html": "/ChaiShai/index.html",
     "static/css/2.1a02f21c.chunk.css.map": "/ChaiShai/static/css/2.1a02f21c.chunk.css.map",
-    "static/css/main.bf0671e3.chunk.css.map": "/ChaiShai/static/css/main.bf0671e3.chunk.css.map",
-    "static/js/2.3fbbe7f4.chunk.js.LICENSE.txt": "/ChaiShai/static/js/2.3fbbe7f4.chunk.js.LICENSE.txt",
+    "static/css/main.518d659f.chunk.css.map": "/ChaiShai/static/css/main.518d659f.chunk.css.map",
+    "static/js/2.4f622e58.chunk.js.LICENSE.txt": "/ChaiShai/static/js/2.4f622e58.chunk.js.LICENSE.txt",
     "static/media/Navbar.css": "/ChaiShai/static/media/bag2.508a2795.jpeg",
     "static/media/chai.f4c7a9b6.jpg": "/ChaiShai/static/media/chai.f4c7a9b6.jpg",
     "static/media/cullad.f9fdd81f.jpg": "/ChaiShai/static/media/cullad.f9fdd81f.jpg",
     "static/media/cup5.d663a0de.jpg": "/ChaiShai/static/media/cup5.d663a0de.jpg",
     "static/media/cut3.2f9b6626.jpg": "/ChaiShai/static/media/cut3.2f9b6626.jpg",
     "static/media/cut4.e74cdad2.jpg": "/ChaiShai/static/media/cut4.e74cdad2.jpg",
+    "static/media/masala.8c5017ac.jpeg": "/ChaiShai/static/media/masala.8c5017ac.jpeg",
     "static/media/tea.502819d9.jpg": "/ChaiShai/static/media/tea.502819d9.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.952c15fa.js",
+    "static/js/runtime-main.c329cdad.js",
     "static/css/2.1a02f21c.chunk.css",
-    "static/js/2.3fbbe7f4.chunk.js",
-    "static/css/main.bf0671e3.chunk.css",
-    "static/js/main.d9c0f05b.chunk.js"
+    "static/js/2.4f622e58.chunk.js",
+    "static/css/main.518d659f.chunk.css",
+    "static/js/main.32ca14a9.chunk.js"
   ]
 }
